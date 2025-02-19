@@ -4,10 +4,13 @@ package cuentas;
 public class Main {
     public static void main(String[] args) {
         //En el paso 3 hemos refactorizado el método main para que llame a operativa_cuenta
-        operativa_cuenta();
+        //En el paso 5 añadimos un parámetro float a operativa_cuenta
+        operativa_cuenta(1234);
+
     }
 
-    public static void operativa_cuenta(){
+    //Paso 5: Añadir un parámetro a operativa_cuenta llamado cantidad y de tipo float
+    public static void operativa_cuenta(float cantidad){
         //En el paso 2 hemos renombrado la variable  a cuenta1
         CCuenta cuenta1;
         double saldoActual;
