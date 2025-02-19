@@ -20,12 +20,6 @@
 1. Insertar comentarios JavaDoc en la clase `CCuenta`
 2. Generar documentación JavaDoc para todo el proyecto y comprobar que abarca todos los métodos y atributos de la clase `CCuenta`
 
-## Estado del Proyecto
-
-- [x] Refactorización completada
-- [x] Configuración de Git realizada
-- [x] Documentación JavaDoc generada
-
 ## Autor
 
 Rodrigo Martínez Tabernero
